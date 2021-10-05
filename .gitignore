@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 node_modules
+=======
+/build_*/
+/node_modules/
+/vendor/
+.DS_Store
+>>>>>>> 282d8ea5c7e2214180e70660102bf07e8c0c6ff4
